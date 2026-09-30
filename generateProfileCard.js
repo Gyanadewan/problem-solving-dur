@@ -1,5 +1,4 @@
 
-
 function generateProfileCard(user) {
   const name = user.name ?? "Anonymous";
   const city = user.address?.city ?? "Unknown";
