@@ -15,7 +15,5 @@ function getDayOfWeek(year, month, day) {
 }
 
 console.log(getDayOfWeek(2024, 5, 11));
-// "Saturday"
 
 console.log(getDayOfWeek(2023, 1, 1));
-// "Sunday"
